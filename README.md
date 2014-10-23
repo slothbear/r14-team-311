@@ -9,7 +9,7 @@ As a project manager, you can use this tool to give **bonifications to your empl
 Another benefit is that it **encourages good practices** like push small commits, reviewing pull requests and closing issues.
 
 **NOTE**  
-The application will be open-source and easy to deploy on heroku, you can find a live demo here: [http://sleepy-shore-3191.herokuapp.com/]()
+The application will be open-source and easy to deploy on heroku, you can find a live demo here: http://sleepy-shore-3191.herokuapp.com/
 
 ## Rails Rumble
 
